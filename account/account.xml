@@ -1,0 +1,9 @@
+<Jerry>
+    <account>   
+        <url>http://baidu.com</url>
+        <name>root</name>
+        <password>root</password>
+        <port>3306</port>
+        <dbname>test</dbname>
+    </account>
+</Jerry>

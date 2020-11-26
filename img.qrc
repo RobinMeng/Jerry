@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/db.png</file>
+        <file>img/table.svg</file>
+        <file>img/db.svg</file>
+        <file>img/obj.svg</file>
+        <file>img/query.svg</file>
+        <file>img/new_query.svg</file>
+        <file>img/open.svg</file>
+        <file>img/conn.svg</file>
+        <file>img/exec.svg</file>
+    </qresource>
+</RCC>
